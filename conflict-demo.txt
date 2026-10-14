@@ -1,2 +1,2 @@
 Topic: Git Merge Conflict
-Status: Updated from branch B
+Status: Resolved — combined changes from branches A and B
