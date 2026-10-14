@@ -1,2 +1,2 @@
 Topic: Git Merge Conflict
-Status: Original
+Status: Updated from branch B
